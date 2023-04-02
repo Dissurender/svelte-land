@@ -1,6 +1,6 @@
 [![](https://img.shields.io/github/issues/dissurender/svelte-land)](https://github.com/Dissurender/svelte-land/issues) [![](https://img.shields.io/github/license/dissurender/svelte-land)](https://github.com/Dissurender/svelte-land/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/svelte-land)
 
-# HN-Bored
+# Svelte-Land
 
 ## Description
 
@@ -12,7 +12,7 @@ Svelte-land is a combination landing page and news wall based on [HackerNews](ht
 
 ## Table of Contents
 
-- [HN-Bored](#hn-bored)
+- [Svelte-Land](#svelte-land)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
