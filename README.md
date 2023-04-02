@@ -1,24 +1,28 @@
-[![](https://img.shields.io/github/issues/dissurender/booked)](https://github.com/Dissurender/booked/issues) [![](https://img.shields.io/github/license/dissurender/booked)](https://github.com/Dissurender/booked/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/booked)
+[![](https://img.shields.io/github/issues/dissurender/svelte-land)](https://github.com/Dissurender/svelte-land/issues) [![](https://img.shields.io/github/license/dissurender/svelte-land)](https://github.com/Dissurender/svelte-land/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/svelte-land)
 
 # HN-Bored
 
 ## Description
 
-HN-Bored is based on [HackerNews](https://news.ycombinator.com) created by [ycombinator](https://www.ycombinator.com)
+Svelte-land is is a combination landing page and news wall based on [HackerNews](https://news.ycombinator.com) created by [ycombinator](https://www.ycombinator.com)
 
 - I built this project to have a darkmode UI and a more accessible API
 -
-- Learned concepts: Chunked API responses, d
+- Learned concepts: Chunked API responses, local caching structures
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribute](#how-to-contribute)
+- [HN-Bored](#hn-bored)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [How to Contribute](#how-to-contribute)
 
 ## Features
 
--
+- To be added
 -
 -
 
@@ -29,6 +33,8 @@ Standard Node install behavior
 - `npm install`
 
 ## Usage
+
+To be used in tandem with my API cleanup project [hn-go](https://github.com/Dissurender/hn-go)
 
 Vercel usage to be added.
 
