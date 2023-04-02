@@ -4,7 +4,7 @@
 
 ## Description
 
-Svelte-land is is a combination landing page and news wall based on [HackerNews](https://news.ycombinator.com) created by [ycombinator](https://www.ycombinator.com)
+Svelte-land is a combination landing page and news wall based on [HackerNews](https://news.ycombinator.com) created by [ycombinator](https://www.ycombinator.com)
 
 - I built this project to have a darkmode UI and a more accessible API
 -
