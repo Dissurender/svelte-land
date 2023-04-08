@@ -7,7 +7,9 @@
         excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a
         id nisi.
       </p>
-      <a href="/posts" class="btn btn-secondary">See all posts</a>
+      <a href="/posts" class="btn btn-secondary" referrerpolicy="no-referrer"
+        >See all posts</a
+      >
     </div>
   </div>
 </div>
